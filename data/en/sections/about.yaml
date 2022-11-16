@@ -72,7 +72,7 @@ badges:
   color: green #Color
  
 # Ejemplo insignia (hard-skill)
-type: certification
+- type: certification
   name: Programming for Everybody (Getting Started with Python) #Nombre de insignia
   url: "https://www.coursera.org/account/accomplishments/certificate/U63K56725JUQ" #Link de la insignia
   badge: "http://opencourser.com/static/uploads/kjvybi/2019-10-Coursera-to_LinkedIn-Certificates_v2.png" #Link imagen
