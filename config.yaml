@@ -5,7 +5,7 @@ languageCode: en-us
 title: "Andrea Quiroz"
 
 # Tema que se usa
-remote_theme: pages-themes/minimal@v0.2.0
+theme: "toha"
  
 # Múltiples idiomas, aquí puedes definir qué idiomas tendrás en tu portafolio
  
