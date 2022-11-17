@@ -35,9 +35,9 @@ params:
   
   # Poner un logo al sitio
   logo:
-    main: /images/site/profile.jpg
-    inverted: /images/site/profile.jpg
-    favicon: /images/site/profile.jpg
+    main: /images/site/profile1.png
+    inverted: /images/site/profile1.png
+    favicon: /images/site/profile1.png
  
  # Habilitar tema oscuro
   darkMode:
