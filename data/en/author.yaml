@@ -8,7 +8,7 @@ nickname: "Andrea Quiroz"
 greeting: "Hi, I am"
  
 # Imagen de ti
-image: "images/author/profile.png"
+image: "images/author/profile1.png"
  
 # Información de contacto
 contactInfo:
@@ -16,7 +16,7 @@ contactInfo:
   phone: " 5512283672"
   linkedin:
     icon: linkedin
-    url: " Laura Andrea Quiroz Ortega"
+    url: "https://www.linkedin.com/in/laura-andrea-quiroz-ortega-762610257/"
     text: "Texto"
  
  
