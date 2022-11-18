@@ -19,9 +19,9 @@ degrees:
     achieved: 97
     outOf: 100
   extracurricularActivities:
-  - "Player of the female soccer varsity team"
-  - "Participant in the 1st genereation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
-  - "Staff in the podcast Contra Reloj"
+  - "Varsity female soccer team team"
+  - "1st genereation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
+  - "Podcast Contra Reloj"
  
  
 - name: Preparatoria
@@ -34,22 +34,26 @@ degrees:
     scale: Average Score
     achieved: 97
     outOf: 100
-  takenCourses: 
-    showGrades: true
-    collapseAfter: 4
-    courses:
-    - name: Maths
-      achieved: 9
-      outOf: 10
-    - name: Computer Science
-      achieved: 9
-      outOf: 10
-    - name: Biology Standard Level
-      achieved: 9
-      outOf: 10
+#  takenCourses: 
+#    showGrades: true
+#    collapseAfter: 4
+#    courses:
+#    - name: Maths
+#      achieved: 9
+#      outOf: 10
+#    - name: Computer Science
+#      achieved: 9
+#      outOf: 10
+#    - name: Biology Standard Level
+#      achieved: 9
+#      outOf: 10
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - "Soccer team La Herradura"
+  - "Social student group Catapulta"
+  - "Environmental student group Trasnfroma"
+  - "High school student government"
+  - "Programming student group Ctr Alt Tec"
+  - "Math student group Sigma"
+  - "Cumbre Nacional de Liderazgo 2019"
  
 
