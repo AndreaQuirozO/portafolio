@@ -10,19 +10,26 @@ section:
 # Tus cursos
 accomplishments:
  
-- name: "Curso 1" #Nombre del curso
-  timeline: "2022" #Año
+- name: "Programming for Everybody (Getting Started with Python)" #Nombre del curso
+  timeline: "2021" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "https://mx.coursera.org/" #Link del certificado
- 
-- name: "Curso 2" #Nombre del curso
-  timeline: "2022" #Año
-  organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/certificado.pdf" #Ruta del certificado
+  courseOverview: "Basics of programming computers using Python" #Descripción
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/U63K56725JUQ" #Link del certificado
 
+- name: "Python Data Structures" #Nombre del curso
+  timeline: "2021" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Introduction to data structures in Python programming language" #Descripción
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/HYADQKDXF4B5" #Ruta del certificado
+
+- name: "Using Python to Access Web Data" #Nombre del curso
+  timeline: "2021" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Use of internat as a source data. Scrape, parse, and read web data as well as access data using web APIs.  Use of HTML, XML, and JSON data formats in Python" #Descripción
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/LS9M89F8BWAR" #Ruta del certificado
