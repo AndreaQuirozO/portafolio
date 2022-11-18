@@ -26,13 +26,13 @@ degrees:
  
 - name: Preparatoria
   icon: fa-university
-  timeframe: 2017-2020
+  timeframe: 2018-2021
   institution:
-    name: Prepa Tec campus Estado de México
+    name: Prepa Tec Campus Santa Fe
     url: "Link"
   grade: 
     scale: Average Score
-    achieved: 92
+    achieved: 97
     outOf: 100
   takenCourses: 
     showGrades: true
