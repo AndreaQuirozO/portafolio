@@ -1,7 +1,7 @@
 # Información de sección
 section:
-  name: Accomplishments
-  id: accomplishments
+  name: Courses
+  id: courses
   enable: true
   weight: 7
   showOnNavbar: true
