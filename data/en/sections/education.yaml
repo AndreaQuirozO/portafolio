@@ -10,18 +10,18 @@ section:
 degrees:
 - name: Engineering in Data Science and Maths
   icon: fa-graduation-cap
-  timeframe: 2020-2024
+  timeframe: 2021-2025
   institution:
     name: Tec de Monterrey Campus Estado de México
-    url: "Link"
+    url: "https://tec.mx/es/estado-de-mexico"
   grade:
     scale: Average Score
     achieved: 97
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - "Player of the female soccer varsity team"
+  - "Participant in the 1st genereation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
+  - "Staff in the podcast Contra Reloj"
  
  
 - name: Preparatoria
