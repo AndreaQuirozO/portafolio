@@ -1,14 +1,14 @@
 # Información de sección
 section:
-  name: Courses
-  id: courses
+  name: Accomplishments
+  id: accomplishments
   enable: true
   weight: 7
   showOnNavbar: true
  
  
 # Tus cursos
-courses:
+accomplishments:
  
 - name: "Curso 1" #Nombre del curso
   timeline: "2022" #Año
