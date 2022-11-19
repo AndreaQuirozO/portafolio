@@ -55,7 +55,7 @@ badges:
   color: yellow #Color
 
 - type: soft-skill-indicator
-  name: Curious #Nombre de soft skill
+  name: Interpersonal relations #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: sky #Color
 
