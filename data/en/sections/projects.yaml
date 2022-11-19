@@ -34,7 +34,7 @@ projects:
   tags: ["Academic","R"] #Etiquetas del proyecto
  
 - name: Premiere League GK Analysis
-  logo: /images/projects/proyecto2.png #Logo del proyecto
+  logo: /images/projects/proyecto1.png #Logo del proyecto
   role: Academic
   timeline: "2021" #Año
   summary: "Analysis of data on goalkeepers in the English Premier League up to the date of October 10, 2021." #Descripción del proyecto
