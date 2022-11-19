@@ -11,7 +11,8 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Advanced knowledge of pyhton. Use of various libraries such as numpy, pandas, plotly, matplotlib and geopandas. Python apllied to data science, subervised machine learning and unsupervised."
+  summary: "Advanced knowledge of pyhton. Use of various libraries such as numpy, pandas, plotly, matplotlib and geopandas. 
+  #Python apllied to data science, subervised machine learning and unsupervised."
 
 - name: C++
   logo: "/images/skills/cpp.png"
@@ -29,9 +30,9 @@ skills:
   logo: "/images/skills/mathematica.png"
   summary: "Basic knowledge of the software Mathematica. Knowledge focused on 2D and 3D graphing."
 
-- name: SQL
-  logo: "/images/skills/sql.png"
-  summary: "Basic knowledge of SQL for data gathering,m analysis and processing."
+#- name: SQL
+#  logo: "/images/skills/sql.png"
+#  summary: "Basic knowledge of SQL for data gathering, analysis and processing."
  
  
 
