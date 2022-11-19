@@ -33,11 +33,11 @@ projects:
   repo: "https://github.com/AndreaQuirozO/Nucleotide-analysis_SARS-CoV-2.git" #Link del repositorio de github del proyecto
   tags: ["Academic","R"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
+- name: Premiere League GK Analysis
   logo: /images/projects/proyecto2.png #Logo del proyecto
-  role: Personal
-  timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+  role: Academic
+  timeline: "2021" #Año
+  summary: "Analysis of data on goalkeepers in the English Premier League up to the date of October 10, 2021." #Descripción del proyecto
+  repo: "https://github.com/AndreaQuirozO/Premiere_League_GK_Analysis" #Link del repositorio de github del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
 
