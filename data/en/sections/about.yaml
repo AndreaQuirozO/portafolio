@@ -8,18 +8,18 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Mathematics
+designation: Engineer in Data Science and Mathematics
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
+  name: Tecnológico de Monterrey.
   url: "https://tec.mx/en/applied-sciences/bs-in-data-science-and-mathematics-engineering"
  
 # Tu CV
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "I am passionate mathematics and programming. I am curious and I always want to know more about subjects that I find interesting. I always push myself to become the best version I can be, in al areas of my life."
+summary: "Curious and hard-working student passionate about mathematics and programming. Always looking to learn something new and trying to become the best version possible."
  
 # Links a redes sociales
 socialLinks:
@@ -51,7 +51,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Self - learning #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  percentage: 90 #Porcentaje que tienes / tamaño del círculo
   color: yellow #Color
 
 - type: soft-skill-indicator
