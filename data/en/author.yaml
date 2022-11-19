@@ -17,14 +17,14 @@ contactInfo:
   linkedin:
     icon: linkedin
     url: "www.linkedin.com/in/andrea-quiroz-ortega"
-    text: "Texto"
+    text: "LinkedIn"
  
  
 # Descripción de ti
 summary:
   - I am a Data Scientist
+  - I am an Engineer
+  - I am a Leader
   - I am a Soccer Player
   - I am a Piano Player
-  - I am a Engineer
-  - I am a Leader
-  - I am a Vegetarian
+
