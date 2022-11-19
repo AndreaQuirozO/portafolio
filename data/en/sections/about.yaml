@@ -51,7 +51,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Self - learning #Nombre de soft skill
-  percentage: 90 #Porcentaje que tienes / tamaño del círculo
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: yellow #Color
 
 - type: soft-skill-indicator
