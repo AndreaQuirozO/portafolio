@@ -17,6 +17,10 @@ skills:
 - name: C++
   logo: "/images/skills/cpp.png"
   summary: "Advanced knowledge of C++. Language mainly used on Object-oriented programming."
+  
+- name: SQL
+  logo: "/images/skills/sql.png"
+  summary: "Basic knowledge of SQL for data gathering, analysis and processing."
 
 - name: R
   logo: "/images/skills/r.png"
@@ -29,10 +33,6 @@ skills:
 - name: Mathematica
   logo: "/images/skills/mathematica.png"
   summary: "Basic knowledge of the software Mathematica. Knowledge focused on 2D and 3D graphing."
-
-- name: SQL
-  logo: "/images/skills/sql.png"
-  summary: "Basic knowledge of SQL for data gathering, analysis and processing."
  
  
 
