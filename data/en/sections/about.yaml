@@ -46,7 +46,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Communication #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  percentage: 90 #Porcentaje que tienes / tamaño del círculo
   color: pink #Color
 
 - type: soft-skill-indicator
@@ -56,12 +56,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Interpersonal relations #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  percentage: 80 #Porcentaje que tienes / tamaño del círculo
   color: sky #Color
 
 - type: soft-skill-indicator
   name: Problem Solving #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  percentage: 95 #Porcentaje que tienes / tamaño del círculo
   color: orange #Color
 
 - type: soft-skill-indicator
