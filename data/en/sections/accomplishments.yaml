@@ -16,7 +16,7 @@ accomplishments:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
   courseOverview: "Basics of programming computers using Python." #Descripción
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/U63K56725JUQ" #Link del certificado
+  certificateURL: "https://coursera.org/share/8ad9307a0257f5f06b17685d289febc9" #Link del certificado
 
 - name: "Python Data Structures" #Nombre del curso
   timeline: "2021" #Año
@@ -24,12 +24,20 @@ accomplishments:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
   courseOverview: "Introduction to data structures in Python programming language." #Descripción
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/HYADQKDXF4B5" #Ruta del certificado
+  certificateURL: "https://coursera.org/share/7aeb7e5a72a6f48edc3b81fe3747ac67" #Ruta del certificado
 
 - name: "Using Python to Access Web Data" #Nombre del curso
   timeline: "2021" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Use of internat as a source of data. Scrape, parse, and read web data as well as access data using web APIs. Use of HTML, XML, and JSON data formats in Python." #Descripción
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/LS9M89F8BWAR" #Ruta del certificado
+  courseOverview: "Use of internet as a source of data. Scrape, parse, and read web data as well as access data using web APIs. Use of HTML, XML, and JSON data formats in Python." #Descripción
+  certificateURL: "https://coursera.org/share/72ae0d402cf3af289f4248aec8e03889" #Ruta del certificado
+  
+- name: "Using Databases with Python" #Nombre del curso
+  timeline: "2023" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. Use of SQLite3 database" #Descripción
+  certificateURL: "https://coursera.org/share/0061b8a50f2e8377b7cfaad729de9065" #Ruta del certificado
