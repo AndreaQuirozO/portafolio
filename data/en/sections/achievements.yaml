@@ -12,16 +12,16 @@ achievements:
   image: /images/achievements/egs.jpg #Imagen
   summary: I received distinguished participation in the Eugenio Garza Sada Global Leadership Program. #Descripción corta
   
-- title: Catapulta Desempeño Nivel Oro #Nombre del Logro
+- title: Catapulta Gold Level Performance #Nombre del Logro
   image: /images/achievements/catapulta.jpg #Imagen
   summary: My student group Catapulta had the Certification of Excellence and Gold Level Performance. #Descripción corta
  
-- title: Cordón de Excelencia LiFE #Nombre del Logro
+- title: Cordon of Excellence LiFE #Nombre del Logro
   image: /images/achievements/life.jpg #Imagen
-  summary: Descripción cortaAfter graduating high school I obtained the Cordon of Excellence from LiFE.
+  summary: After graduating high school I obtained the Cordon of Excellence from LiFE.
 
-- title: Logro 4 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: Academic Scholarship for University #Nombre del Logro
+  image: /images/achievements/beca.jpg #Imagen
+  summary: Thanks to my academic perfomrance during high school, I received an academic scholarship for university. #Descripción corta
  
 
