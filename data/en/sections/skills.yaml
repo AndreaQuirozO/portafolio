@@ -11,8 +11,7 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Advanced knowledge of pyhton. Use of various libraries such as numpy, pandas, plotly, matplotlib and geopandas. 
-  #Python apllied to data science, subervised machine learning and unsupervised."
+  summary: "Advanced knowledge of pyhton. Use of various libraries such as numpy, pandas, plotly, matplotlib and geopandas. Python apllied to data science, subervised machine learning and unsupervised."
 
 - name: C++
   logo: "/images/skills/cpp.png"
@@ -24,7 +23,7 @@ skills:
 
 - name: R
   logo: "/images/skills/r.png"
-  summary: "Basic knowledge of R using different data structures. R applied to computational biology analysis "
+  summary: "Basic knowledge of R using different data structures. R applied to computational biology analysis."
  
 - name: Matlab
   logo: "/images/skills/matlab.png"

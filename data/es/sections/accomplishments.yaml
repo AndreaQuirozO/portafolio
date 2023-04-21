@@ -10,18 +10,35 @@ section:
 # Tus cursos
 accomplishments:
  
-- name: "Curso 1" #Nombre del curso
-  timeline: "2022" #Año
+- name: "Programming for Everybody (Getting Started with Python)" #Nombre del curso
+  timeline: "2021" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "https://mx.coursera.org/" #Link del certificado
- 
-- name: "Curso 2" #Nombre del curso
-  timeline: "2022" #Año
+  courseOverview: "Conceptos básicos de programación de computadoras usando Python." #Descripción
+  certificateURL: "https://coursera.org/share/8ad9307a0257f5f06b17685d289febc9" #Link del certificado
+
+- name: "Python Data Structures" #Nombre del curso
+  timeline: "2021" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/certificado.pdf" #Ruta del certificado
+  courseOverview: "Introducción a las estructuras de datos en el lenguaje de programación Python." #Descripción
+  certificateURL: "https://coursera.org/share/7aeb7e5a72a6f48edc3b81fe3747ac67" #Ruta del certificado
+
+- name: "Using Python to Access Web Data" #Nombre del curso
+  timeline: "2021" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Uso de internet como fuente de datos. Extracción, análisis y lectura de datos web, así como acceso a datos mediante API web. Uso de formatos de datos HTML, XML y JSON en Python." #Descripción
+  certificateURL: "https://coursera.org/share/72ae0d402cf3af289f4248aec8e03889" #Ruta del certificado
+  
+- name: "Using Databases with Python" #Nombre del curso
+  timeline: "2023" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Conceptos básicos de Structured Query Language (SQL) (SQL), así como el diseño básico de bases de datos para almacenar datos como parte de un esfuerzo de recopilación, análisis y procesamiento de datos de varios pasos. Uso de la base de datos SQLite3" #Descripción
+  certificateURL: "https://coursera.org/share/0061b8a50f2e8377b7cfaad729de9065" #Ruta del certificado
+

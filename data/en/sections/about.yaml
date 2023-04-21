@@ -8,7 +8,7 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineer in Data Science and Mathematics
+designation: Data Science and Mathematics Engineering
  
 # Información de tu compañía / Escuela
 company:
@@ -19,7 +19,7 @@ company:
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "Curious and hard-working student passionate about mathematics and programming. Always looking to learn something new and trying to become the best version possible."
+summary: "I am a curious and hard-working student passionate about mathematics and programming. Always looking to learn something new and trying to become the best version possible."
  
 # Links a redes sociales
 socialLinks:
@@ -50,7 +50,7 @@ badges:
   color: pink #Color
 
 - type: soft-skill-indicator
-  name: Self - learning #Nombre de soft skill
+  name: Self-learning #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: yellow #Color
 
@@ -60,7 +60,7 @@ badges:
   color: sky #Color
 
 - type: soft-skill-indicator
-  name: Problem Solving #Nombre de soft skill
+  name: Problem olving #Nombre de soft skill
   percentage: 95 #Porcentaje que tienes / tamaño del círculo
   color: orange #Color
 

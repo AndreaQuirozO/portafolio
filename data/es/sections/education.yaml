@@ -8,47 +8,51 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Engineering in Data Science and Maths
+- name: Ingeniería en Ciencia de Datos y Matemáticas
   icon: fa-graduation-cap
-  timeframe: 2020-2024
+  timeframe: 2021-present
   institution:
     name: Tec de Monterrey Campus Estado de México
-    url: "Link"
+    url: "https://tec.mx/es/estado-de-mexico"
   grade:
     scale: Promedio
     achieved: 97
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - "Equipo representativo fútbol soccer"
+  - "1era generación de Eugenio Garza Sada Global Leadership Program liderado por el Dr. Kasonde Musoma"
+  - "Podcast Contra Reloj"
  
  
 - name: Preparatoria
   icon: fa-university
-  timeframe: 2017-2020
+  timeframe: 2018-2021
   institution:
-    name: Prepa Tec campus Estado de México
-    url: "Link"
+    name: Prepa Tec Campus Santa Fe
+    url: "https://tec.mx/es/santa-fe"
   grade: 
     scale: Promedio
-    achieved: 92
+    achieved: 97
     outOf: 100
-  takenCourses: 
-    showGrades: true
-    collapseAfter: 4
-    courses:
-    - name: Matemáticas
-      achieved: 9
-      outOf: 10
-    - name: Programación
-      achieved: 9
-      outOf: 10
-    - name: Biología
-      achieved: 9
-      outOf: 10
+#  takenCourses: 
+#    showGrades: true
+#    collapseAfter: 4
+#    courses:
+#    - name: Maths
+#      achieved: 9
+#      outOf: 10
+#    - name: Computer Science
+#      achieved: 9
+#      outOf: 10
+#    - name: Biology Standard Level
+#      achieved: 9
+#      outOf: 10
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - "Equipo de fútbol La Herradura"
+  - "Grupo estudiantil social Catapulta"
+  - "Grupo estudiantil ambiental Trasnfroma"
+  - "Asociación de alumnos de preparatoria SAPREPA"
+  - "Grupo estudiantil de programación Ctr Alt Tec"
+  - "Grupo estudiantil de matemáticas Sigma"
+  - "Cumbre Nacional de Liderazgo 2019"
  

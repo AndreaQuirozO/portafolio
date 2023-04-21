@@ -19,7 +19,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/8ad9307a0257f5f06b17685d289febc9" #Link del certificado
 
 - name: "Python Data Structures" #Nombre del curso
-  timeline: "2021" #Año
+  timeline: "2021" #Añ
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
@@ -39,5 +39,5 @@ accomplishments:
   organization:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. Use of SQLite3 database" #Descripción
+  courseOverview: "Basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. Use of SQLite3 database." #Descripción
   certificateURL: "https://coursera.org/share/0061b8a50f2e8377b7cfaad729de9065" #Ruta del certificado

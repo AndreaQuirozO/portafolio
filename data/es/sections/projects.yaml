@@ -14,29 +14,37 @@ buttons:
   filter: "Python"
 - name: R
   filter: "R"
-- name: Machine Learning
-  filter: "Machine Learning"
+#- name: Machine Learning
+#  filter: "Machine Learning"
 - name: Academic
   filter: "Academic"
-- name: Professional
-  filter: "Professional"
-- name: Personal
-  filter: "Personal"
+#- name: Professional
+#  filter: "Professional"
+#- name: Personal
+#  filter: "Personal"
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
-  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
-  role: Professional 
+- name: Nucleotide analysis SARS-CoV-2
+  logo: /images/projects/proyecto1.png #Logo del proyecto
+  role: Academic 
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
+  summary: "Análisis y comparación visual de las secuencias de nucleótidos del SARS-CoV-2 de diferentes especies." #Descripción del proyecto
+  repo: "https://github.com/AndreaQuirozO/Nucleotide-analysis_SARS-CoV-2.git" #Link del repositorio de github del proyecto
+  tags: ["Academic","R"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
-  logo: /images/sections/projects/proyecto2.png #Logo del proyecto
-  role: Personal
-  timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+- name: Análisis de Porteros de la Premier League
+  logo: /images/projects/proyecto1.png #Logo del proyecto
+  role: Academic
+  timeline: "2021" #Año
+  summary: "Análisis de datos de porteros de la Premier League inglesa a fecha 10 de octubre de 2021." #Descripción del proyecto
+  repo: "https://github.com/AndreaQuirozO/Premiere_League_GK_Analysis" #Link del repositorio de github del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
+  
+- name: Buscando Estrellas en Ascenso
+  logo: /images/projects/proyecto1.png #Logo del proyecto
+  role: Academic
+  timeline: "2021" #Año
+  summary: "Análisis de datos para hacer un modelo de predicción para ayudar a instituto de investigación a identificar estrellas en ascenso" #Descripción del proyecto
+  repo: "https://github.com/AndreaQuirozO/Finding_Rising_Stars.git" #Link del repositorio de github del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto

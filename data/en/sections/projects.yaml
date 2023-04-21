@@ -41,7 +41,7 @@ projects:
   repo: "https://github.com/AndreaQuirozO/Premiere_League_GK_Analysis" #Link del repositorio de github del proyecto
   tags: ["Academic","Python"] #Etiquetas del proyecto
   
-- name: Finding rising Stars
+- name: Finding Rising Stars
   logo: /images/projects/proyecto1.png #Logo del proyecto
   role: Academic
   timeline: "2021" #Año

@@ -11,12 +11,26 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
- 
-- name: R
-  logo: "/images/skills/r.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Conocimientos avanzados de pyhton. Uso de varias bibliotecas como numpy, pandas, plotly, matplotlib y geopandas. Python aplicado a la ciencia de datos, aprendizaje automático supervisado y no supervisado."
 
+- name: C++
+  logo: "/images/skills/cpp.png"
+  summary: "Conocimientos avanzados de C++. Lenguaje utilizado principalmente en programación orientada a objetos."
+  
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Conocimientos básicos de SQL para la recopilación, análisis y procesamiento de datos."
+
+- name: R
+  logo: "/images/skills/r.png"
+  summary: "Conocimientos básicos de R utilizando diferentes estructuras de datos. R aplicado al análisis de biología computacional."
+ 
+- name: Matlab
+  logo: "/images/skills/matlab.png"
+  summary: "Conocimiento intermedio del software Matlab. Conocimiento de cálculos matemáticos y vectoriales complejos, así como gráficos y animaciones en 2D."
+
+- name: Mathematica
+  logo: "/images/skills/mathematica.png"
+  summary: "Conocimientos básicos del software Mathematica. Conocimiento enfocado en graficación 2D y 3D."
+ 
+ 

@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Engineering in Data Science and Maths
+- name: Data Science and Mathematics Engineering
   icon: fa-graduation-cap
   timeframe: 2021-present
   institution:
@@ -51,7 +51,7 @@ degrees:
   - "Soccer team La Herradura"
   - "Social student group Catapulta"
   - "Environmental student group Trasnfroma"
-  - "High school student government"
+  - "High school student government SAPREPA"
   - "Programming student group Ctr Alt Tec"
   - "Math student group Sigma"
   - "Cumbre Nacional de Liderazgo 2019"

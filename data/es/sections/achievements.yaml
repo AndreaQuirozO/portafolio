@@ -8,18 +8,19 @@ section:
  
 # Tus logros
 achievements:
-- title: Logro 1 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: Participación Distinguida EGS #Nombre del Logro
+  image: /images/achievements/egs.jpg #Imagen
+  summary: Recibí Participación Distinguida en el Programa de Liderazgo Global Eugenio Garza Sada. #Descripción corta
   
-- title: Logro 2 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: Rendimiento del nivel de oro de Catapulta #Nombre del Logro
+  image: /images/achievements/catapulta.jpg #Imagen
+  summary: Mi grupo estudiantil Catapulta obtuvo la Certificación de Excelencia y Desempeño Nivel Oro. #Descripción corta
  
-- title: Logro 3 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
-  
-- title: Logro 3 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: Cordón de Excelencia LiFE #Nombre del Logro
+  image: /images/achievements/life.jpg #Imagen
+  summary: Después de graduarme de la escuela secundaria obtuve el Cordón de Excelencia de LiFE.
+
+- title: Beca Académica para la Universidad #Nombre del Logro
+  image: /images/achievements/beca.jpg #Imagen
+  summary: Gracias a mi desempeño académico durante la preparatoria, obtuve una beca académica para la universidad. #Descripción corta
+ 

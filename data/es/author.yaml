@@ -1,8 +1,8 @@
 # Nombre completo
-name: "Nombre Apellido1 Apellido2"
+name: "Laura Andrea Quiroz Ortega"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Nombre"
+nickname: "Andrea Quiroz"
  
 # Saludo inicial antes de tu apodo
 greeting: "Hola, yo soy"
@@ -12,18 +12,15 @@ image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
-  linkedin:
-    icon: linkedin
-    url: "link de linkedin"
-    text: "Texto"
+  email: "laqo2002@gmail.com"
+  phone: "5512283672"
+  linkedin: "/andrea-quiroz-ortega/"
  
  
 # Descripción de ti
 summary:
-  - Soy un Científico de Datos
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
+  - Soy científica de datos
+  - Soy ingeniera
+  - Soy una líder
+  - Soy una jugadora de fútbol
+  - Soy pianista
