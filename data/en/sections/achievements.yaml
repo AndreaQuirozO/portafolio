@@ -8,18 +8,18 @@ section:
  
 # Tus logros
 achievements:
-- title: Logro 1 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: EGS Distinguished Participation #Nombre del Logro
+  image: /images/achievements/egs.jpg #Imagen
+  summary: I received distinguished participation in the Eugenio Garza Sada Global Leadership Program. #Descripción corta
   
-- title: Logro 2 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
+- title: Catapulta Desempeño Nivel Oro #Nombre del Logro
+  image: /images/achievements/catapulta.jpg #Imagen
+  summary: My student group Catapulta had the Certification of Excellence and Gold Level Performance. #Descripción corta
  
-- title: Logro 3 #Nombre del Logro
-  image: /images/achievements/logro.jpg #Imagen
-  summary: Descripción corta. #Descripción corta
-  
+- title: Cordón de Excelencia LiFE #Nombre del Logro
+  image: /images/achievements/life.jpg #Imagen
+  summary: Descripción cortaAfter graduating high school I obtained the Cordon of Excellence from LiFE.
+
 - title: Logro 4 #Nombre del Logro
   image: /images/achievements/logro.jpg #Imagen
   summary: Descripción corta. #Descripción corta
