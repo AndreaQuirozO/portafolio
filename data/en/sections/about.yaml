@@ -60,7 +60,7 @@ badges:
   color: sky #Color
 
 - type: soft-skill-indicator
-  name: Problem olving #Nombre de soft skill
+  name: Problem solving #Nombre de soft skill
   percentage: 95 #Porcentaje que tienes / tamaño del círculo
   color: orange #Color
 
