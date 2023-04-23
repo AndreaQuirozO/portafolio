@@ -11,7 +11,7 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Conocimientos avanzados de pyhton. Uso de varias bibliotecas como numpy, pandas, plotly, matplotlib y geopandas. Python aplicado a la ciencia de datos, aprendizaje automático supervisado y no supervisado."
+  summary: "Conocimientos avanzados de pyhton. Uso de varias bibliotecas como numpy, pandas, plotly, matplotlib y geopandas. Python aplicado a la ciencia de datos, supervised y unsupervised machine learning."
 
 - name: C++
   logo: "/images/skills/cpp.png"
