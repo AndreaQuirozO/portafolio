@@ -45,7 +45,7 @@ projects:
   logo: /images/projects/proyecto1.png #Logo del proyecto
   role: Academic
   timeline: "2021" #Año
-  summary: "Análisis de datos para hacer un modelo de predicción para ayudar a instituto de investigación a identificar estrellas en ascenso" #Descripción del proyecto
+  summary: "Análisis de datos para hacer un modelo de predicción para ayudar a instituto de investigación a identificar estrellas en ascenso." #Descripción del proyecto
   repo: "https://github.com/AndreaQuirozO/Finding_Rising_Stars.git" #Link del repositorio de github del proyecto
   tags: ["Academic","Python"] #Etiquetas del proyecto
   
