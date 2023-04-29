@@ -20,8 +20,8 @@ buttons:
   filter: "Academic"
 #- name: Professional
 #  filter: "Professional"
-#- name: Personal
-#  filter: "Personal"
+- name: Personal
+  filter: "Personal"
  
 # Proyectos
 projects:
