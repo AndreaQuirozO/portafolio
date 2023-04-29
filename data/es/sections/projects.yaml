@@ -48,3 +48,11 @@ projects:
   summary: "Análisis de datos para hacer un modelo de predicción para ayudar a instituto de investigación a identificar estrellas en ascenso" #Descripción del proyecto
   repo: "https://github.com/AndreaQuirozO/Finding_Rising_Stars.git" #Link del repositorio de github del proyecto
   tags: ["Academic","Python"] #Etiquetas del proyecto
+  
+ - name: Sitio Web Jugadoras WTA
+  logo: /images/projects/proyecto1.png #Logo del proyecto
+  role: Personal
+  timeline: "2023" #Año
+  summary: "Sitio web de jugadores de la WTA que utiliza conjuntos de datos de partidos y rankings de 1920 a 2023. Las principales librerías utilizadas son pandas y streamlit." #Descripción del proyecto
+  repo: "https://github.com/AndreaQuirozO/WTA_Players.git" #Link del repositorio de github del proyecto
+  tags: ["Personal","Python"] #Etiquetas del proyecto
