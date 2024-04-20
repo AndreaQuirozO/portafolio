@@ -9,15 +9,15 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: TECMed Center CEM
-    url: "https://tecmed.tec.mx/es/cem"
-    overview: "Data Analysis"
+    name: Procter & Gamble
+    url: "https://us.pg.com/"
   positions:
-  - designation: Social Service Proyect
-    start: Jan 2023 
+  - designation: Data Analytics & Automation Intern
+    start: Jan 2024 
+    end:
     responsibilities:
-    - Data Engineering
-    - Data Visualization
+    - Python Scripting
+    - Process Automation
  
 #- company:
 #    name: Nombre Compañia.
