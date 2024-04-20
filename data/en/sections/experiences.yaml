@@ -8,11 +8,11 @@ section:
  
 # Tus experiencias
 experiences:
-- company: Procter & Gamble
-    name: Data Analysis & Automation
+- company: 
+    name: Procter & Gamble
     url: "https://us.pg.com/"
     overview: 
-  positions:
+  positions: Data Analysis & Automation
   - designation: 
     start: Jan 2024 
     responsibilities:
