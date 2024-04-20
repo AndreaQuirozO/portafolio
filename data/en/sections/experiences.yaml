@@ -8,12 +8,11 @@ section:
  
 # Tus experiencias
 experiences:
-- company: 
+- company:
     name: Procter & Gamble
     url: "https://us.pg.com/"
-    overview: 
-  positions: Data Analysis & Automation
-  - designation: 
+  positions:
+  - designation: Data Analytics & Automation Intern
     start: Jan 2024 
     responsibilities:
     - Python Scripting
