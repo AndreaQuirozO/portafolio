@@ -9,8 +9,8 @@ section:
 # Tus experiencias
 experiences:
 - company:
-  name: Procter & Gamble
-  url: "https://us.pg.com/"
+    name: Procter & Gamble
+    url: "https://us.pg.com/"
 positions:
 - designation: Data Analysis & Automation Engineer Intern
   start: Jan 2024 
@@ -26,7 +26,7 @@ positions:
     start: Feb 2025 
     end: Jul 2025
     responsibilities:
-    -  Developed ML models to improve decision-making and reduce transportation costs.
+    - Developed ML models to improve decision-making and reduce transportation costs.
     - Built SQL queries and Power BI dashboards to simplify data access and save employee time.
 
 #- company:

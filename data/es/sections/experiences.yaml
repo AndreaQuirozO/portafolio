@@ -1,16 +1,16 @@
 # Información de la sección
 section:
-  name: Experiencias
+  name: Experiences
   id: experiences
   enable: true
   weight: 3
   showOnNavbar: true
-
+ 
 # Tus experiencias
 experiences:
 - company:
-  name: Procter & Gamble
-  url: "https://us.pg.com/"
+    name: Procter & Gamble
+    url: "https://us.pg.com/"
   positions:
   - designation: Data Analysis & Automation Engineer Intern
     start: Ene 2024
@@ -19,8 +19,8 @@ experiences:
     - Mapeó y automatizó procesos de negocio usando scripts en Python y APIs para mejorar la eficiencia y reducir errores.
 
 - company:
-  name: Procter & Gamble
-  url: "https://us.pg.com/"
+    name: Procter & Gamble
+    url: "https://us.pg.com/"
   positions:
   - designation: Product Supply Data & Analytics Engineer Intern
     start: Feb 2025
