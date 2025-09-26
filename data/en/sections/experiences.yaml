@@ -12,12 +12,22 @@ experiences:
     name: Procter & Gamble
     url: "https://us.pg.com/"
   positions:
-  - designation: Data Analytics & Automation Intern
-    start: Jan 2024 
-    end:
+  - designation: Product Supply Data & Analytics Engineer Intern
+    start: Feb 2025 
+    end: Jul 2025
     responsibilities:
-    - Python Scripting
-    - Process Automation
+    -  Developed ML models to improve decision-making and reduce transportation costs.
+    - Built SQL queries and Power BI dashboards to simplify data access and save employee time.
+
+- company:
+    name: Procter & Gamble
+    url: "https://us.pg.com/"
+  positions:
+  - designation: Data Analysis & Automation Engineer Intern
+    start: Jan 2024 
+    end: Aug 2024
+    responsibilities:
+    - Mapped and automated business processes using Python scripts and APIs to improve efficiency and reduce errors.
  
 #- company:
 #    name: Nombre Compañia.
