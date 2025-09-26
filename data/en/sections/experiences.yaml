@@ -11,13 +11,13 @@ experiences:
 - company:
     name: Procter & Gamble
     url: "https://us.pg.com/"
-positions:
-- designation: Data Analysis & Automation Engineer Intern
-  start: Jan 2024 
-  end: Aug 2024
-  responsibilities:
-  - Mapped and automated business processes using Python scripts and APIs to improve efficiency and reduce errors.
- 
+  positions:
+  - designation: Data Analysis & Automation Engineer Intern
+    start: Jan 2024 
+    end: Aug 2024
+    responsibilities:
+    - Mapped and automated business processes using Python scripts and APIs to improve efficiency and reduce errors.
+  
 - company:
     name: Procter & Gamble
     url: "https://us.pg.com/"
