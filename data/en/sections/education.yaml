@@ -6,41 +6,42 @@ section:
   enable: true
   weight: 4
   showOnNavbar: true
-
+ 
 degrees:
-- name: Maestría en Ciencias de la Computación
+- name: Master's in Computer Science
   icon: fa-graduation-cap
-  timeframe: 2025-presente
+  timeframe: 2025-present
   institution:
     name: École Polytechnique Fédérale de Lausanne
     url: "https://www.epfl.ch/en/"
   # grade:
-  #   scale: Promedio
+  #   scale: Average Score
   #   achieved: 97
   #   outOf: 100
   # extracurricularActivities:
-  # - "Programación competitiva"
-  # - "Tutoría de matemáticas"
-  # - "Equipo varsity de fútbol femenino"
-  # - "Primera generación del Programa de Liderazgo Global Eugenio Garza Sada liderado por el Dr. Kasonde Musoma"
+  # - "Competitive Programming"
+  # - "Math tutor"
+  # - "Varsity female soccer team"
+  # - "1st generation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
   # - "Podcast Contra Reloj"
 
-- name: Licenciatura en Ingeniería en Ciencia de Datos y Matemáticas
+- name: B. S. in Data Science and Mathematics Engineering
   icon: fa-graduation-cap
   timeframe: 2021-2025
   institution:
     name: Tec de Monterrey Campus Estado de México
     url: "https://tec.mx/es/estado-de-mexico"
   grade:
-    scale: Promedio
+    scale: Average Score
     achieved: 97
     outOf: 100
   extracurricularActivities:
-  - "Programación competitiva"
-  - "Tutoría de matemáticas"
-  - "Equipo varsity de fútbol femenino"
-  - "Primera generación del Programa de Liderazgo Global Eugenio Garza Sada"
-
+  - "Competitive Programming - ICPC"
+  - "Math tutor"
+  - "Varsity female soccer team"
+  - "1st generation of Eugenio Garza Sada Global Leadership Program"
+ 
+ 
 - name: Preparatoria
   icon: fa-university
   timeframe: 2018-2021
@@ -48,25 +49,25 @@ degrees:
     name: Prepa Tec Campus Santa Fe
     url: "https://tec.mx/es/santa-fe"
   grade: 
-    scale: Promedio
+    scale: Average Score
     achieved: 97
     outOf: 100
 #  takenCourses: 
 #    showGrades: true
 #    collapseAfter: 4
 #    courses:
-#    - name: Matemáticas
+#    - name: Maths
 #      achieved: 9
 #      outOf: 10
-#    - name: Ciencias de la Computación
+#    - name: Computer Science
 #      achieved: 9
 #      outOf: 10
-#    - name: Biología Nivel Estándar
+#    - name: Biology Standard Level
 #      achieved: 9
 #      outOf: 10
   extracurricularActivities:
-  - "Equipo de fútbol La Herradura"
-  - "Grupo estudiantil social Catapulta"
-  - "Grupo estudiantil ambiental Transforma"
-  - "Grupo estudiantil de matemáticas Sigma"
+  - "Soccer team La Herradura"
+  - "Social student group Catapulta"
+  - "Environmental student group Trasnfroma"
+  - "Math student group Sigma"
   - "Cumbre Nacional de Liderazgo 2019"
