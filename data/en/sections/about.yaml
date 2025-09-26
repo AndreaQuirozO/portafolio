@@ -8,18 +8,18 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Data Science and Mathematics Engineering
+designation: Computer Science Master's student
  
 # Información de tu compañía / Escuela
 company:
-  name: Tecnológico de Monterrey.
-  url: "https://tec.mx/en/applied-sciences/bs-in-data-science-and-mathematics-engineering"
+  name: École Polytechnique Fédérale de Lausanne.
+  url: "https://www.epfl.ch/en/"
  
 # Tu CV
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "I am a curious and hard-working student passionate about mathematics and programming. Always looking to learn something new and trying to become the best version possible."
+summary: "I am a curious and hard-working student passionate about engineering and software development. I am constantly seeking opportunities to learn, grow, and become the best version of myself."
  
 # Links a redes sociales
 socialLinks:

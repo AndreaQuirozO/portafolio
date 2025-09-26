@@ -8,9 +8,26 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Data Science and Mathematics Engineering
+- name: Master's in Computer Science
   icon: fa-graduation-cap
-  timeframe: 2021-present
+  timeframe: 2025-present
+  institution:
+    name: École Polytechnique Fédérale de Lausanne
+    url: "https://www.epfl.ch/en/"
+  # grade:
+  #   scale: Average Score
+  #   achieved: 97
+  #   outOf: 100
+  # extracurricularActivities:
+  # - "Competitive Programming"
+  # - "Math tutor"
+  # - "Varsity female soccer team"
+  # - "1st generation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
+  # - "Podcast Contra Reloj"
+
+- name: B. S. in Data Science and Mathematics Engineering
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
   institution:
     name: Tec de Monterrey Campus Estado de México
     url: "https://tec.mx/es/estado-de-mexico"
@@ -22,8 +39,7 @@ degrees:
   - "Competitive Programming"
   - "Math tutor"
   - "Varsity female soccer team"
-  - "1st generation of Eugenio Garza Sada Global Leadership Program led by Dr. Kasonde Musoma"
-  - "Podcast Contra Reloj"
+  - "1st generation of Eugenio Garza Sada Global Leadership Program"
  
  
 - name: Preparatoria
@@ -53,8 +69,6 @@ degrees:
   - "Soccer team La Herradura"
   - "Social student group Catapulta"
   - "Environmental student group Trasnfroma"
-  - "High school student government SAPREPA"
-  - "Programming student group Ctr Alt Tec"
   - "Math student group Sigma"
   - "Cumbre Nacional de Liderazgo 2019"
  
