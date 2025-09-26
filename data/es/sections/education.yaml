@@ -6,11 +6,28 @@ section:
   enable: true
   weight: 4
   showOnNavbar: true
- 
+
 degrees:
+- name: Maestría en Ciencias de la Computación
+  icon: fa-graduation-cap
+  timeframe: 2025-presente
+  institution:
+    name: École Polytechnique Fédérale de Lausanne
+    url: "https://www.epfl.ch/en/"
+  # grade:
+  #   scale: Promedio
+  #   achieved: 97
+  #   outOf: 100
+  # extracurricularActivities:
+  # - "Programación competitiva"
+  # - "Tutoría de matemáticas"
+  # - "Equipo varsity de fútbol femenino"
+  # - "Primera generación del Programa de Liderazgo Global Eugenio Garza Sada liderado por el Dr. Kasonde Musoma"
+  # - "Podcast Contra Reloj"
+
 - name: Ingeniería en Ciencia de Datos y Matemáticas
   icon: fa-graduation-cap
-  timeframe: 2021-present
+  timeframe: 2021-2025
   institution:
     name: Tec de Monterrey Campus Estado de México
     url: "https://tec.mx/es/estado-de-mexico"
@@ -19,13 +36,11 @@ degrees:
     achieved: 97
     outOf: 100
   extracurricularActivities:
-  - "Programación Competitiva"
+  - "Programación competitiva"
   - "Tutora de matemáticas"
-  - "Equipo representativo fútbol soccer"
-  - "1era generación de Eugenio Garza Sada Global Leadership Program liderado por el Dr. Kasonde Musoma"
-  - "Podcast Contra Reloj"
- 
- 
+  - "Equipo representativo de fútbol femenino"
+  - "Primera generación del Eugenio Garza Sada Global Leadership Program"
+
 - name: Preparatoria
   icon: fa-university
   timeframe: 2018-2021
@@ -40,21 +55,18 @@ degrees:
 #    showGrades: true
 #    collapseAfter: 4
 #    courses:
-#    - name: Maths
+#    - name: Matemáticas
 #      achieved: 9
 #      outOf: 10
-#    - name: Computer Science
+#    - name: Ciencias de la Computación
 #      achieved: 9
 #      outOf: 10
-#    - name: Biology Standard Level
+#    - name: Biología Nivel Estándar
 #      achieved: 9
 #      outOf: 10
   extracurricularActivities:
   - "Equipo de fútbol La Herradura"
   - "Grupo estudiantil social Catapulta"
-  - "Grupo estudiantil ambiental Trasnfroma"
-  - "Asociación de alumnos de preparatoria SAPREPA"
-  - "Grupo estudiantil de programación Ctr Alt Tec"
+  - "Grupo estudiantil ambiental Transforma"
   - "Grupo estudiantil de matemáticas Sigma"
   - "Cumbre Nacional de Liderazgo 2019"
- 

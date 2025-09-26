@@ -5,7 +5,7 @@ section:
   enable: true
   weight: 4
   showOnNavbar: true
- 
+
 # Botones de filtro
 buttons:
 - name: Todos
@@ -16,43 +16,59 @@ buttons:
   filter: "R"
 #- name: Machine Learning
 #  filter: "Machine Learning"
-- name: Academic
+- name: Académico
   filter: "Academic"
-#- name: Professional
+#- name: Profesional
 #  filter: "Professional"
 - name: Personal
   filter: "Personal"
- 
+
 # Proyectos
 projects:
-- name: Nucleotide analysis SARS-CoV-2
-  logo: /images/projects/proyecto1.png #Logo del proyecto
-  role: Academic 
-  timeline: "2022" #Año
-  summary: "Análisis y comparación visual de las secuencias de nucleótidos del SARS-CoV-2 de diferentes especies." #Descripción del proyecto
-  repo: "https://github.com/AndreaQuirozO/Nucleotide-analysis_SARS-CoV-2.git" #Link del repositorio de github del proyecto
-  tags: ["Academic","R"] #Etiquetas del proyecto
- 
-- name: Análisis de Porteros de la Premier League
-  logo: /images/projects/proyecto1.png #Logo del proyecto
-  role: Academic
-  timeline: "2021" #Año
-  summary: "Análisis de datos de porteros de la Premier League inglesa a fecha 10 de octubre de 2021." #Descripción del proyecto
-  repo: "https://github.com/AndreaQuirozO/Premiere_League_GK_Analysis" #Link del repositorio de github del proyecto
-  tags: ["Academic","Python"] #Etiquetas del proyecto
-  
-- name: Buscando Estrellas en Ascenso
-  logo: /images/projects/proyecto1.png #Logo del proyecto
-  role: Academic
-  timeline: "2021" #Año
-  summary: "Análisis de datos para hacer un modelo de predicción para ayudar a instituto de investigación a identificar estrellas en ascenso." #Descripción del proyecto
-  repo: "https://github.com/AndreaQuirozO/Finding_Rising_Stars.git" #Link del repositorio de github del proyecto
-  tags: ["Academic","Python"] #Etiquetas del proyecto
-  
-- name: Sitio Web Jugadoras WTA
-  logo: /images/projects/proyecto1.png #Logo del proyecto
+- name: Autoavanza
+  logo: /images/projects/proyecto1.png
+  role: Académico
+  timeline: "2025"
+  summary: "Aplicación en Streamlit para Monte de Piedad (México) usando OCR, visión por computadora y machine learning para clasificar y validar documentos vehiculares para elegibilidad de empeño de autos."
+  repo: "https://github.com/AndreaQuirozO/Autoavanza"
+  tags: ["Académico","Python"]
+
+- name: Simulador de Blockchain
+  logo: /images/projects/proyecto1.png
+  role: Académico
+  timeline: "2025"
+  summary: "Simulación en Python de un blockchain simplificado con wallets, transacciones, gestión de UTXO, minería Proof-of-Work, creación de bloques y una interfaz interactiva."
+  repo: "https://github.com/AndreaQuirozO/BlockchainSimulation"
+  tags: ["Académico","Python"]
+
+- name: Sitio Web de Jugadoras WTA
+  logo: /images/projects/proyecto1.png
   role: Personal
-  timeline: "2023" #Año
-  summary: "Sitio web de jugadores de la WTA que utiliza conjuntos de datos de partidos y rankings de 1920 a 2023. Las principales librerías utilizadas son pandas y streamlit." #Descripción del proyecto
-  repo: "https://github.com/AndreaQuirozO/WTA_Players.git" #Link del repositorio de github del proyecto
-  tags: ["Personal","Python"] #Etiquetas del proyecto
+  timeline: "2023"
+  summary: "Sitio web de jugadoras WTA usando datasets de partidos y rankings desde 1920 hasta 2023. Las principales librerías utilizadas fueron pandas y streamlit."
+  repo: "https://github.com/AndreaQuirozO/WTA_Players.git"
+  tags: ["Personal","Python"]
+
+- name: Análisis de Nucleótidos SARS-CoV-2
+  logo: /images/projects/proyecto1.png
+  role: Académico
+  timeline: "2022"
+  summary: "Análisis y comparación visual de las secuencias de nucleótidos del SARS-CoV-2 de diferentes especies."
+  repo: "https://github.com/AndreaQuirozO/Nucleotide-analysis_SARS-CoV-2.git"
+  tags: ["Académico","R"]
+
+- name: Análisis de Porteros de la Premier League
+  logo: /images/projects/proyecto1.png
+  role: Académico
+  timeline: "2021"
+  summary: "Análisis de datos sobre porteros en la Premier League inglesa hasta el 10 de octubre de 2021."
+  repo: "https://github.com/AndreaQuirozO/Premiere_League_GK_Analysis"
+  tags: ["Académico","Python"]
+
+- name: Encontrando Estrellas Emergentes
+  logo: /images/projects/proyecto1.png
+  role: Académico
+  timeline: "2021"
+  summary: "Análisis de datos para crear un modelo de predicción que ayude a un instituto de investigación a identificar estrellas emergentes."
+  repo: "https://github.com/AndreaQuirozO/Finding_Rising_Stars.git"
+  tags: ["Académico","Python"]

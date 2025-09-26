@@ -11,26 +11,29 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Conocimientos avanzados de pyhton. Uso de varias bibliotecas como numpy, pandas, plotly, matplotlib y geopandas. Python aplicado a la ciencia de datos, supervised y unsupervised machine learning."
+  summary: "Dominio avanzado de Python, con experiencia en librerías como NumPy, Pandas, Plotly, Matplotlib y GeoPandas. Aplicado a ciencia de datos y aprendizaje automático (supervisado y no supervisado)."
 
 - name: C++
   logo: "/images/skills/cpp.png"
-  summary: "Conocimientos avanzados de C++. Lenguaje utilizado principalmente en programación orientada a objetos."
-  
+  summary: "Conocimiento avanzado de C++, principalmente aplicado a programación orientada a objetos."
+
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Conocimientos básicos de SQL para la recopilación, análisis y procesamiento de datos."
+  summary: "Conocimientos básicos de SQL para extracción, análisis y procesamiento de datos."
 
 - name: R
   logo: "/images/skills/r.png"
-  summary: "Conocimientos básicos de R utilizando diferentes estructuras de datos. R aplicado al análisis de biología computacional."
- 
+  summary: "Conocimientos básicos de R, usando diversas estructuras de datos y aplicándolo a biología computacional."
+
 - name: Matlab
   logo: "/images/skills/matlab.png"
-  summary: "Conocimiento intermedio del software Matlab. Conocimiento de cálculos matemáticos y vectoriales complejos, así como gráficos y animaciones en 2D."
+  summary: "Dominio intermedio de MATLAB para modelado matemático, cálculos vectoriales y visualización 2D."
 
 - name: Mathematica
   logo: "/images/skills/mathematica.png"
-  summary: "Conocimientos básicos del software Mathematica. Conocimiento enfocado en graficación 2D y 3D."
- 
- 
+  summary: "Experiencia básica con Mathematica, centrada en gráficos 2D y 3D."
+
+- name: Power BI
+  logo: "/images/skills/powerbi.png"
+  summary: "Habilidades básicas para diseñar y construir dashboards interactivos en Power BI."
+

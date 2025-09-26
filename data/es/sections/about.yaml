@@ -8,19 +8,19 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Ingeniería en Ciencia de Datos y Matemáticas
+designation: Estudiante de Maestría en Ciencias de la Computación
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
-  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+  name: École Polytechnique Fédérale de Lausanne
+  url: "https://www.epfl.ch/en/"
  
 # Tu CV
 resume: "files/cv_es.pdf"
  
 # Resumen de ti
-summary: "Soy una estudiante curiosa y trabajadora apasionada por las matemáticas y la programación. Siempre buscando aprender algo nuevo y tratando de convertirme en la mejor versión posible."
- 
+summary: "Soy una estudiante curiosa y trabajadora, apasionada por la ingeniería y el desarrollo de software. Busco constantemente oportunidades para aprender, crecer y convertirme en la mejor versión de mí misma."
+
 # Links a redes sociales
 socialLinks:
 - name: Github

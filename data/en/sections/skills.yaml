@@ -7,31 +7,35 @@ section:
   showOnNavbar: true
  
 # Tus habilidades (hard skills)
- 
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Advanced knowledge of pyhton. Use of various libraries such as numpy, pandas, plotly, matplotlib and geopandas. Python apllied to data science, supervised and unsupervised machine learning."
+  summary: "Advanced proficiency in Python, with experience in libraries such as NumPy, Pandas, Plotly, Matplotlib, and GeoPandas. Applied to data science and machine learning (supervised and unsupervised)."
 
 - name: C++
   logo: "/images/skills/cpp.png"
-  summary: "Advanced knowledge of C++. Language mainly used on Object-oriented programming."
-  
+  summary: "Advanced knowledge of C++, mainly applied to object-oriented programming."
+
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Basic knowledge of SQL for data gathering, analysis and processing."
+  summary: "Basic skills in SQL for data extraction, analysis, and processing."
 
 - name: R
   logo: "/images/skills/r.png"
-  summary: "Basic knowledge of R using different data structures. R applied to computational biology analysis."
- 
+  summary: "Basic knowledge of R, using various data structures and applying it to computational biology."
+
 - name: Matlab
   logo: "/images/skills/matlab.png"
-  summary: "Intermediate knoledge of the software Matlab. Knowledge for complex mathematical and vectorial calculations as well as 2D graphing and animation."
+  summary: "Intermediate proficiency in MATLAB for mathematical modeling, vector calculations, and 2D visualization."
 
 - name: Mathematica
   logo: "/images/skills/mathematica.png"
-  summary: "Basic knowledge of the software Mathematica. Knowledge focused on 2D and 3D graphing."
+  summary: "Basic experience with Mathematica, focused on 2D and 3D graphing."
+
+- name: Power BI
+  logo: "/images/skills/powerbi.png"
+  summary: "Basic ability to design and build interactive Power BI dashboards."
+
  
  
 
